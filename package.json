@@ -1,0 +1,15 @@
+{
+  "name": "youtube-robot",
+  "version": "1.0.0",
+  "description": "App that creates videos for youtube from some keyword",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Moraes",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
